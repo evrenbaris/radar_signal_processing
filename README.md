@@ -12,7 +12,7 @@ This project simulates radar signals and applies advanced signal processing algo
 - **NumPy**: For numerical computations.
 - **Matplotlib**: For visualizations.
 - **SciPy**: For FFT analysis.
-- **PyKalman**: For Kalman filtering.
+
 
 ## How to Run
 1. Clone the repository:
