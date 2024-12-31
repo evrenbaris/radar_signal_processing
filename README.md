@@ -17,5 +17,5 @@ This project simulates radar signals and applies advanced signal processing algo
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/advanced-radar-simulation.git
+   git clone https://github.com/evrenbaris/advanced-radar-simulation.git
    cd advanced-radar-simulation
